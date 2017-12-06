@@ -2,8 +2,8 @@ using system
 
 namespace RectangleAppliation{
   class Rectangle {
-     double length;
-     double width;
+     public double length;
+     public double width;
 
      public double GetArea(doube _l,double _w)
      {
