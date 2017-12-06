@@ -1,0 +1,6 @@
+//test array
+
+namesapce ArrayAppliation{
+
+
+}
